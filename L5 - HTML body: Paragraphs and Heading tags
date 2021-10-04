@@ -1,0 +1,41 @@
+HTML body: Paragraphs and Heading tags
+
+setting -> command palette -> Toggle Word Wrap -> Enter
+It decorate the lines instead of a single long line.
+
+lorem(n)  
+n = 1, 2, 3 … It actually write n dummy words in <p> </p>   
+
+p * n -> Enter
+it creates n <p> </p> tags
+example p * 3 -> Enter means
+<p> </p>
+<p> </p>
+<p> </p>
+
+Total number of Heading Tag is 6 (h1, h2, h3, h4, h5, h6)
+Size : h1 > h2 > h3 > h4 > h5 > h6
+<h1>  </h1>
+<h2> </h2>
+.
+.
+
+Paragraph Tag = p
+<strong> A rainy day </strong>
+It makes the letter bold 
+
+<em> A rainy day </em>
+It changes the front into Italian
+
+Ctrl + Enter
+Jump to the next line
+
+<br> 
+It works as a new line 
+It has only opening tag, no closing tag
+
+<hr>
+It prints a new line and then a straight line
+It has only opening tag, no closing tag
+
+Words written after the tag are called attributes.
